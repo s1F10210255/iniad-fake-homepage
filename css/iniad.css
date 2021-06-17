@@ -1,6 +1,11 @@
 body {
+<<<<<<< HEAD
   background-color: #8f5d2b;
   color: #FE4261;
+=======
+  background-color: #ffffff;
+  color: #000;
+>>>>>>> 9f881dd802bf75458e28034e170436f812c2c1ce
 }
 
 h1 {
@@ -22,15 +27,18 @@ h3 {
 
 #schedule {
   padding: 10px 20px 10px 20px;
-  background-color: #9933ff;
+  background-color: #fffacd;
 }
 
 .iniad {
-  color: #00cc00;
+  color: #000080;
 }
 
 .time {
   font-weight: bold;
   color: #cc0000;
   font-size: 15px;
+}
+#held-day{
+  font-size: 30px;
 }
